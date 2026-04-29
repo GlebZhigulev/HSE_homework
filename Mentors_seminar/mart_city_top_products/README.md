@@ -84,7 +84,12 @@ mart_city_top_products/
 
 ## Результат
 
-Результата:
+Создание Yandex Data Processing:
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+Результат выполнения:
 
 ![alt text](image.png)
 
