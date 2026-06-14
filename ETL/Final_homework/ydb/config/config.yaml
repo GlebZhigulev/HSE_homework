@@ -1,0 +1,2 @@
+profiles: {my-ydb: {endpoint: grpcs://ydb.serverless.yandexcloud.net:2135, database: /ru-central1/b1gl9n97rjlosnht0cm7/etnivohlbfjs8ipiuggv}}
+active_profile: my-ydb
